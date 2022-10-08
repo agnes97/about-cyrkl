@@ -1,6 +1,8 @@
 {
-	"short_name": "React App",
-	"name": "Create React App Sample",
+	"short_name": "Blog",
+	"name": "Blog",
+	"author": "Jana Chaloupková",
+	"description": "React exercise/case study to showcase my skills.",
 	"icons": [
 		{
 			"src": "favicon.ico",
