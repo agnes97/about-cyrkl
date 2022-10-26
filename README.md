@@ -1,12 +1,12 @@
-# 𝔹𝕃𝕆𝔾
+# ℂ𝕐ℝ𝕂𝕃
 
-React exercise/case study to showcase my skills.
+React/TypeScript exercise copying part of "About us" page of Cyrkl.
 
 ---
 
 ## 𝕓𝕦𝕚𝕝𝕕 𝕨𝕚𝕥𝕙
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) in [TypeScript](https://www.typescriptlang.org/) template. Styling is done with [Material UI](https://mui.com/core/) library.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) in [TypeScript](https://www.typescriptlang.org/) template. Styling is done with [Material UI](https://mui.com/core/) library.
 
 Code quality is ensured with [ESLint](https://eslint.org/) JS linter, [Prettier](https://prettier.io/) code formatter and safeguarded by git pre-commit hook using [Husky](https://typicode.github.io/husky/#/).
 
