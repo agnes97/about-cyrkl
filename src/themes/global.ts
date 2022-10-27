@@ -5,8 +5,6 @@ import 'sanitize.css/typography.css'
 import { colorPalette } from './variables'
 
 export const GlobalStyles = createGlobalStyle`
-    @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
-
     * {
         scrollbar-width: none;
 
